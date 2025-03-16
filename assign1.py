@@ -1,0 +1,6 @@
+x=int(input("Enter the first number:"))
+y=int(input("Enter the second number:"))
+print("Addition:"+str(x+y))
+print("Substraction:"+str(x-y))
+print("Multiplication:"+str(x*y))
+print("Division:"+str(x/y))
